@@ -12,5 +12,5 @@ Rules of the Game:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 Skills practiced:
--DOM Manipulation
--DRY principle 
+- DOM Manipulation
+- DRY principle 
